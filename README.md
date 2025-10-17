@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studing software engineering.
-- 💼 &nbsp;  I’m currently learning FRONT END web development.
+- 💼 &nbsp;  I’m currently working on full-stack web development.
  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
