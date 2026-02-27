@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=" www.nathnaelbb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/nathnaelbb@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="natnael.g.bacha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/nathnaelbb@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
